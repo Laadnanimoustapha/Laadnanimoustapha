@@ -64,7 +64,7 @@
 
 ## 🌍 Visitor Stats
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=laadnanimoustapha&label=Profile%20Views&color=12b886&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Laadnanimoustapha&label=Profile%20Views&color=12b886&icon=5&pretty=true" />
 </p>
 
 ---
