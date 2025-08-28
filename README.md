@@ -56,8 +56,9 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Laadnanimoustapha/Laadnanimoustapha/blob/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Laadnanimoustapha/Laadnanimoustapha/output/snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
