@@ -29,6 +29,12 @@
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laadnanimoustapha&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Laadnanimoustapha&show_icons=true&theme=radical" height="165" />
@@ -38,19 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laadnanimoustapha&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laadnanimoustapha&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laadnanimoustapha&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
 
 ---
 
