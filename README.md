@@ -43,23 +43,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laadnanimoustapha&layout=compact&theme=radical" />
 </p>
-
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Laadnanimoustapha/Laadnanimoustapha/output/snake.svg" alt="snake animation"/>
-</p>
-
-
----
-
-## 🌍 Visitor Stats
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Laadnanimoustapha&label=Profile%20Views&color=12b886&icon=5&pretty=true" />
-</p>
-
 ---
 
 ## 🔗 Connect with Me
