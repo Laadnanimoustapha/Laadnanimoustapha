@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Mustapha Laadnani!  
-[![Support Palestine](https://img.shields.io/badge/Support-Palestine-000000?labelColor=007A3D&color=CE1126)](#support-palestine)
-[![Free Palestine](https://img.shields.io/badge/Free-Palestine-CE1126?labelColor=000000&color=007A3D)](#support-palestine)
-
+[![Support Palestine](https://img.shields.io/badge/Support-Palestine-000000?labelColor=007A3D&color=CE1126)](#support-palestine)  
+[![Free Palestine](https://img.shields.io/badge/Free-Palestine-CE1126?labelColor=000000&color=007A3D)](#support-palestine)  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&width=500&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+PHP+%7C+MySQL;Always+Learning+%26+Building" alt="Typing Animation" />
@@ -26,9 +25,16 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹 [**Krili**](https://github.com/Laadnanimoustapha/krili) – 🚀 Full-stack React/Next.js project  
-- 🔹 [**Weather App**](https://github.com/Laadnanimoustapha/weather-app) – 🌦️ Python weather forecast app  
-- 🔹 [**My Space Website**](https://laadnanimoustapha.github.io/my-speace/) – 🌍 Personal portfolio  
+- 🔹 [**Galactic Defender**](https://galactic-defender-two.vercel.app/) – 🚀 Space shooter game built with React  
+- 🔹 [**FitMind**](https://fit-mind-nu.vercel.app/) – 🧠 Mental fitness app with a React/Next.js stack  
+- 🔹 [**Krili**](https://krili-react-ts-one.vercel.app/) – 🚀 Full-stack React/Next.js project  
+- 🔹 [**CILA**](https://laadnanimoustapha.github.io/CILA/) – 🌐 AI-based platform for language learning  
+- 🔹 [**NexusTrack**](https://laadnanimoustapha.github.io/NexusTrack/) – 🔍 Real-time tracking system for projects  
+- 🔹 [**My Space Website**](https://my-speace.vercel.app/) – 🌍 Personal portfolio  
+- 🔹 [**Smart Portfolio Builder**](https://laadnanimoustapha.github.io/-Smart-Portfolio-Builder/) – 💼 Tool to create and manage portfolios  
+- 🔹 [**Admin Panel**](https://admin-panel-reactv0.netlify.app/) – 🛠️ Admin dashboard UI  
+- 🔹 [**Quik Form Builder**](https://quikformbuilder.netlify.app/) – 📝 Dynamic form builder app  
+- 🔹 [**All Charts Dashboard**](https://all-charts-dashbord.netlify.app/) – 📊 Multi-chart dashboard app  
 
 ---
 
@@ -46,6 +52,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laadnanimoustapha&layout=compact&theme=radical" />
 </p>
+
 ---
 
 ## 🔗 Connect with Me
