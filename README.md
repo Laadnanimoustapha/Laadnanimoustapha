@@ -58,7 +58,7 @@
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://github.com/Laadnanimoustapha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://laadnanimoustapha.github.io/my-speace/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://my-speace.vercel.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
