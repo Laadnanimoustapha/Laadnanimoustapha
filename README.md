@@ -36,7 +36,8 @@
 - 🔹 [**Smart Portfolio Builder**](https://laadnanimoustapha.github.io/-Smart-Portfolio-Builder/) – 💼 Tool to create and manage portfolios  
 - 🔹 [**Admin Panel**](https://admin-panel-reactv0.netlify.app/) – 🛠️ Admin dashboard UI  
 - 🔹 [**Quik Form Builder**](https://quikformbuilder.netlify.app/) – 📝 Dynamic form builder app  
-- 🔹 [**All Charts Dashboard**](https://all-charts-dashbord.netlify.app/) – 📊 Multi-chart dashboard app  
+- 🔹 [**All Charts Dashboard**](https://all-charts-dashbord.netlify.app/) – 📊 Multi-chart dashboard app
+- 🔹 [**NEXUS-CoreTracker**](https://nexus-core-tracker.vercel.app/) –  Real time Task Manager
 
 ---
 
