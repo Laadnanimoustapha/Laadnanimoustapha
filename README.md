@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Mustapha Laadnani!  
-[![Support Palestine](https://img.shields.io/badge/Support-Palestine-000000?labelColor=007A3D&color=CE1126)](#support-palestine)  
-[![Free Palestine](https://img.shields.io/badge/Free-Palestine-CE1126?labelColor=000000&color=007A3D)](#support-palestine)  
+<P align="center">
+ [![Support Palestine](https://img.shields.io/badge/Support-Palestine-000000?labelColor=007A3D&color=CE1126)](#support-palestine)  
+ [![Free Palestine](https://img.shields.io/badge/Free-Palestine-CE1126?labelColor=000000&color=007A3D)](#support-palestine)  
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&width=500&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+PHP+%7C+MySQL;Always+Learning+%26+Building" alt="Typing Animation" />
