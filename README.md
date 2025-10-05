@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Mustapha Laadnani!  
-<P align="center">
-<img src="https://png.pngtree.com/png-clipart/20210523/original/pngtree-flag-of-free-palestine-png-image_6309318.jpg"/> 
+
+<p align="center">
+  <img src="https://png.pngtree.com/png-clipart/20210523/original/pngtree-flag-of-free-palestine-png-image_6309318.jpg" width="300" height="100"/>
 </p>
 
 <p align="center">
