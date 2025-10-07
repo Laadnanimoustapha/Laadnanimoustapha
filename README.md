@@ -25,7 +25,7 @@
 ## 🚀 Featured Projects
 - 🔹 [**Galactic Defender**](https://galactic-defender-two.vercel.app/) – 🚀 Space shooter game built with React  
 - 🔹 [**FitMind**](https://fit-mind-nu.vercel.app/) – 🧠 Mental fitness app with a React/Next.js stack  
-- 🔹 [**Krili**](https://krili-react-ts-one.vercel.app/) – 🚀 Full-stack React/Next.js project  
+- 🔹 [**Krili**](https://krili-ma.vercel.app/) – 🚀 Full-stack React/Next.js project  
 - 🔹 [**CILA**](https://laadnanimoustapha.github.io/CILA/) – 🌐 AI-based platform for language learning  
 - 🔹 [**NexusTrack**](https://laadnanimoustapha.github.io/NexusTrack/) – 🔍 Real-time tracking system for projects  
 - 🔹 [**My Space Website**](https://my-speace.vercel.app/) – 🌍 Personal portfolio  
