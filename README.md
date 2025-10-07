@@ -1,10 +1,6 @@
 # 👋 Hi there, I'm Mustapha Laadnani!  
 
 <p align="center">
-  <img src="https://png.pngtree.com/png-clipart/20210523/original/pngtree-flag-of-free-palestine-png-image_6309318.jpg" width="300" height="100"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&width=500&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+PHP+%7C+MySQL;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
 
