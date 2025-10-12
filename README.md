@@ -1,22 +1,19 @@
 # 👋 Hi there, I'm Mustapha Laadnani!  
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Laadnanimoustapha.Laadnanimoustapha)
 
 
 <p align="center">
+
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Laadnanimoustapha.Laadnanimoustapha)
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&width=500&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+PHP+%7C+MySQL;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
 
 ---
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+</div>
 
-## 🧑‍💻 About Me
-- 🌍 From **Morocco**
-- 🔭 Currently working on **React + Next.js projects**
-- 🌱 Learning **AI + Machine Learning**
-- 🎯 Goal: Become a **top open-source contributor**
-- ☕ Fun fact: I debug faster with **coffee & music** 🎶  
-
----
 
 ## 🛠️ Tech Stack
 <p align="center">
