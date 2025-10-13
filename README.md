@@ -58,6 +58,10 @@
 <p align="center">
   <a href="https://github.com/Laadnanimoustapha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://my-speace.vercel.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ladnani?igsh=MTJwZzd3bG1kb2M4ag=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/laadnani.mustapha"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:mustapha.laadnani.03@edu.uiz.ac.ma"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+
 </p>
 
 ---
