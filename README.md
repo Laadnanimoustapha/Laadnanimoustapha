@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Live Projects
 - 🔹 [**Galactic Defender**](https://galactic-defender-two.vercel.app/) – 🚀 Space shooter game built with React  
 - 🔹 [**FitMind**](https://fit-mind-nu.vercel.app/) – 🧠 Mental fitness app with a React/Next.js stack  
 - 🔹 [**Krili**](https://krili-ma.vercel.app/) – 🚀 Full-stack React/Next.js project  
