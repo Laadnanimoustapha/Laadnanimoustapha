@@ -44,15 +44,15 @@
 
 ---
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laadnanimoustapha&layout=compact&theme=radical" width="80%" height="80%" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Laadnanimoustapha&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laadnanimoustapha&theme=radical" height="165" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laadnanimoustapha&layout=compact&theme=radical" width ="80%" height="165" />
+</p>
 ---
 
 ## 🔗 Connect with Me
