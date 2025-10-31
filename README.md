@@ -4,7 +4,6 @@
 </div>
 
 
-
 ## 🛠️ Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,php,python,html,cpp,java,go,mysql,git,nextjs,docker,aws,azure,mongodb" />
