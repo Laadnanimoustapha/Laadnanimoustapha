@@ -40,10 +40,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laadnanimoustapha&theme=radical&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=FF6B6B&currStreakLabel=00C2FF" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laadnanimoustapha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" width="45%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laadnanimoustapha&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&area_color=00C2FF" width="53%" />
-</div>
+
 ---
 
 ## 🔗 Connect with Me
