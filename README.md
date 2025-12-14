@@ -35,7 +35,19 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Laadnanimoustapha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laadnanimoustapha&theme=radical&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=FF6B6B&currStreakLabel=00C2FF" height="180" />
+
+---
+
+## 🧠 Programming Languages Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laadnanimoustapha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" height="180"/>
+</p>
+
+---
+
 </div>
+
 
 
 ---
