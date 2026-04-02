@@ -8,7 +8,7 @@
 </p>
 
 ---
-
+<!--
 ## 🚀 Live Projects
 - 🔹 [**Galactic Defender**](https://galactic-defender-two.vercel.app/) – 🚀 Space shooter game built with React  
 - 🔹 [**FitMind**](https://fit-mind-nu.vercel.app/) – 🧠 Mental fitness app with a React/Next.js stack  
@@ -23,7 +23,7 @@
 - 🔹 [**NEXUS-CoreTracker**](https://nexus-core-tracker.vercel.app/) –  Real time Task Manager ############
 
 ---
-
+-->
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=laadnanimoustapha&theme=react-dark&hide_border=true&area=true" width="100%"/>
