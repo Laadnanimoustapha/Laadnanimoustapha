@@ -38,7 +38,7 @@
 ## Programming Languages Usage
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Laadnanimoustapha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&hide=java&exclude_repo=grida,Grida&langs_count=10" width="80%"/>
+  <img src="https://my-readme-stats-rho.vercel.app/api/top-langs/?username=Laadnanimoustapha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&hide=java&exclude_repo=grida,Grida&langs_count=10&count_private=true" width="80%"/>
 </p>
 
 ## Connect with Me
