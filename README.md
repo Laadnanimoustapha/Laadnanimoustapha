@@ -2,6 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
 </div>
 
+<!--
 # Mustapha Laadnani
 
 Software Engineering Student at Université Ibn Zohr (UIZ), Morocco, and Full-Stack Developer. Focused on building production-grade web applications, robust backends, and integrating intelligent features.
@@ -51,12 +52,15 @@ Next.js, React, FastAPI, Node.js, Express, Tailwind CSS, Radix UI
 
 ---
 
+-->
+
 ## GitHub Activity & Analytics
+<!--
 
 ### Contribution Snake
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Laadnanimoustapha/Laadnanimoustapha/output/snake.svg)
-
+-->
 ### Top Languages Usage
 
 <p align="center">
