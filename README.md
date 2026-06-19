@@ -63,12 +63,15 @@ Next.js, React, FastAPI, Node.js, Express, Tailwind CSS, Radix UI
   <img src="https://my-readme-stats-rho.vercel.app/api/top-langs/?username=Laadnanimoustapha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&hide=mdx,html&exclude_repo=ghidra,spotify-clone-merns&langs_count=10&count_private=true" width="80%"/>
 </p>
 
+<!--
+
 ### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=laadnanimoustapha&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
+-->
 ---
 
 ## Connect with Me
